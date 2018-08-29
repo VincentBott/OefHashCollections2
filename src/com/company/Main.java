@@ -28,7 +28,6 @@ public class Main {
 
             rekeningen.put(rek.getRekeningnummer(), rek);
 
-
         }
 
         System.out.println("Op welke rekening wilt u storten ? ");
@@ -61,6 +60,7 @@ public class Main {
 
     }
 }
+
 
 
 
